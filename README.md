@@ -25,7 +25,7 @@
 
 | Day | Date | What I Built | Link |
 |-----|------|-------------|------|
-| 1 | 20 Mar 2026 | Environment setup (pyenv + uv + VS Code). NumPy: arrays, vectorisation, broadcasting, 1M-element benchmark. | [Notebook]([Notebook](day01_numpy_practice.ipynb)) |
+| 1 | 20 Mar 2026 | Environment setup (pyenv + uv + VS Code). NumPy: arrays, vectorisation, broadcasting, 1M-element benchmark. | [Notebook](day01_numpy_practice.ipynb) |
 
 ---
 
