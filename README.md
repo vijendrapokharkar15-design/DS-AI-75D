@@ -26,7 +26,7 @@
 | Day | Date | What I Built | Link |
 |-----|------|-------------|------|
 | 1 | 20 Mar 2026 | Environment setup (pyenv + uv + VS Code). NumPy: arrays, vectorisation, broadcasting, 1M-element benchmark. | [Notebook](day01_numpy_practice.ipynb) |
-
+| 2 | 21 Mar 2026 | Pandas: DataFrames, loc/iloc, boolean filtering, groupby, merging. Titanic survival analysis — 5 business questions answered. | [Notebook](week01/notebooks/day02_pandas_fundamentals.ipynb) |
 ---
 
 ## 🚀 Projects (Building Throughout the Journey)
