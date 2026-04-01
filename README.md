@@ -32,6 +32,7 @@
 | 5 | 25 Mar 2026 | Matplotlib + Seaborn: bar chart, histogram, scatter, subplots, heatmap, boxplot, violin, FacetGrid — 7 chart types on Titanic. | [Notebook](week01/notebooks/day05_visualisation.ipynb) |
 | 6 | 26 Mar 2026 | Plotly interactive charts (bar, scatter, histogram, boxplot, heatmap, dashboard) + Streamlit Titanic Explorer app with live filters. | [Notebook](week01/notebooks/day06_plotly_streamlit.ipynb) |
 | 7 | 27 Mar 2026 | DuckDB: SQL on DataFrames, CSV queries, window functions, CTEs, 4.5x faster than Pandas. DuckDB SQL Explorer Streamlit app. | [Notebook](week01/notebooks/day07_duckdb.ipynb) |
+| 8 | 01 Apr 2026 | Statistics & Probability: descriptive stats, distributions, hypothesis testing (t-test, p-value), correlation heatmap on Titanic. | [Notebook](.vscode/week02/day08_statistics.ipynb) |
 
 ---
 
