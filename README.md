@@ -33,6 +33,7 @@
 | 6 | 26 Mar 2026 | Plotly interactive charts (bar, scatter, histogram, boxplot, heatmap, dashboard) + Streamlit Titanic Explorer app with live filters. | [Notebook](week01/notebooks/day06_plotly_streamlit.ipynb) |
 | 7 | 27 Mar 2026 | DuckDB: SQL on DataFrames, CSV queries, window functions, CTEs, 4.5x faster than Pandas. DuckDB SQL Explorer Streamlit app. | [Notebook](week01/notebooks/day07_duckdb.ipynb) |
 | 8 | 01 Apr 2026 | Statistics & Probability: descriptive stats, distributions, hypothesis testing (t-test, p-value), correlation heatmap on Titanic. | [Notebook](.vscode/week02/day08_statistics.ipynb) |
+| 9 | 02 Apr 2026 | Probability fundamentals: conditional probability, Bayes' theorem, Normal, Binomial & Poisson distributions with Titanic simulations. | [Notebook](.vscode/week02/day09_probability.ipynb) |
 
 ---
 
