@@ -35,7 +35,7 @@
 | 8 | 01 Apr 2026 | Statistics & Probability: descriptive stats, distributions, hypothesis testing (t-test, p-value), correlation heatmap on Titanic. | [Notebook](.vscode/week02/day08_statistics.ipynb) |
 | 9 | 02 Apr 2026 | Probability fundamentals: conditional probability, Bayes' theorem, Normal, Binomial & Poisson distributions with Titanic simulations. | [Notebook](.vscode/week02/day09_probability.ipynb) |
 | 10 | 02 Apr 2026 | Inferential statistics: one-sample t-test, two-sample t-test, chi-square test, hypothesis testing framework on Titanic. | [Notebook](.vscode/week02/day10_inferential_statistics.ipynb) |
-
+| 11 | 03 Apr 2026 | A/B Testing: confidence intervals, Type I & II errors, statistical power, sample size calculation, full A/B test simulation. | [Notebook](.vscode/week02/day11_ab_testing.ipynb) |
 ---
 
 ## 🚀 Projects (Building Throughout the Journey)
