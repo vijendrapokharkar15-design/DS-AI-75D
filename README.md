@@ -38,6 +38,7 @@
 | 11 | 03 Apr 2026 | A/B Testing: confidence intervals, Type I & II errors, statistical power, sample size calculation, full A/B test simulation. | [Notebook](.vscode/week02/day11_ab_testing.ipynb) |
 | 12 | 04 Apr 2026 | SQL Fundamentals: SELECT, WHERE, GROUP BY, HAVING, all JOIN types, subqueries, CASE WHEN — 15 queries on Titanic using DuckDB. | [Notebook](.vscode/week02/day12_sql_fundamentals.ipynb) |
 | 13 | 04 Apr 2026 | Advanced SQL: window functions (ROW_NUMBER, RANK, DENSE_RANK, LAG, LEAD), CTEs, NTILE, running totals, moving averages on Titanic. | [Notebook](.vscode/week02/day13_advanced_sql.ipynb) |
+| 14 | 05 Apr 2026 | SQL for Data Science: cohort analysis, funnel analysis, retention queries, date arithmetic, month-over-month trends on simulated e-commerce data. | [Notebook](.vscode/week02/day14_sql_for_ds.ipynb) |
 ---
 
 ## 🚀 Projects (Building Throughout the Journey)
