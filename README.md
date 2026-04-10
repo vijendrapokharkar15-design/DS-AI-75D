@@ -39,6 +39,7 @@
 | 12 | 04 Apr 2026 | SQL Fundamentals: SELECT, WHERE, GROUP BY, HAVING, all JOIN types, subqueries, CASE WHEN — 15 queries on Titanic using DuckDB. | [Notebook](.vscode/week02/day12_sql_fundamentals.ipynb) |
 | 13 | 04 Apr 2026 | Advanced SQL: window functions (ROW_NUMBER, RANK, DENSE_RANK, LAG, LEAD), CTEs, NTILE, running totals, moving averages on Titanic. | [Notebook](.vscode/week02/day13_advanced_sql.ipynb) |
 | 14 | 05 Apr 2026 | SQL for Data Science: cohort analysis, funnel analysis, retention queries, date arithmetic, month-over-month trends on simulated e-commerce data. | [Notebook](.vscode/week02/day14_sql_for_ds.ipynb) |
+| 15 | 05 Apr 2026 | Phase 1 Review: statistics quiz, SQL sprint, visual summary of all Phase 1 insights, knowledge checklist — 20% of journey complete! | [Notebook](.vscode/week03/day15_phase1_review.ipynb) |
 ---
 
 ## 🚀 Projects (Building Throughout the Journey)
