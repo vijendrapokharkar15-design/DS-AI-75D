@@ -40,6 +40,7 @@
 | 13 | 04 Apr 2026 | Advanced SQL: window functions (ROW_NUMBER, RANK, DENSE_RANK, LAG, LEAD), CTEs, NTILE, running totals, moving averages on Titanic. | [Notebook](.vscode/week02/day13_advanced_sql.ipynb) |
 | 14 | 05 Apr 2026 | SQL for Data Science: cohort analysis, funnel analysis, retention queries, date arithmetic, month-over-month trends on simulated e-commerce data. | [Notebook](.vscode/week02/day14_sql_for_ds.ipynb) |
 | 15 | 05 Apr 2026 | Phase 1 Review: statistics quiz, SQL sprint, visual summary of all Phase 1 insights, knowledge checklist — 20% of journey complete! | [Notebook](.vscode/week03/day15_phase1_review.ipynb) |
+| 16 | 06 Apr 2026 | Scikit-learn ML Workflow: data preparation, train/test split, Pipeline, ColumnTransformer, 5-fold cross-validation, Logistic Regression — 80.4% accuracy on Titanic. | [Notebook](.vscode/week03/day16_sklearn_ml_workflow.ipynb) |
 ---
 
 ## 🚀 Projects (Building Throughout the Journey)
