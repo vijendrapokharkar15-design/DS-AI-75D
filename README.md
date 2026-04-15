@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![NumPy](https://img.shields.io/badge/NumPy-latest-orange?logo=numpy)
-![Status](https://img.shields.io/badge/Status-Day%201%20of%2075-brightgreen)
+![Status](https://img.shields.io/badge/Status-Day%2017%20of%2075-brightgreen)
 
 > A fully documented 75-day execution plan to become job-ready for Data Scientist, ML Engineer, and AI Engineer roles — one deployed project per phase, built in public.
 
@@ -12,8 +12,8 @@
 
 | Phase | Days | Focus | Status |
 |-------|------|-------|--------|
-| 1 — Foundations | 1–15 | Python · NumPy · Pandas · Polars · Stats · SQL | 🔄 In Progress |
-| 2 — Core ML | 16–35 | Scikit-learn · XGBoost · Feature Engineering · SHAP | ⏳ Upcoming |
+| 1 — Foundations | 1–15 | Python · NumPy · Pandas · Polars · Stats · SQL | ✅ Complete |
+| 2 — Core ML | 16–35 | Scikit-learn · XGBoost · Feature Engineering · SHAP | 🔄 In Progress |
 | 3 — Deep Learning & NLP | 36–50 | PyTorch · Transformers · Hugging Face | ⏳ Upcoming |
 | 4 — GenAI & LLMs | 51–63 | RAG · LangGraph · Fine-tuning · RAGAS | ⏳ Upcoming |
 | 5 — MLOps | 64–70 | Docker · FastAPI · MLflow · Evidently AI | ⏳ Upcoming |
