@@ -42,6 +42,7 @@
 | 15 | 05 Apr 2026 | Phase 1 Review: statistics quiz, SQL sprint, visual summary of all Phase 1 insights, knowledge checklist — 20% of journey complete! | [Notebook](.vscode/week03/day15_phase1_review.ipynb) |
 | 16 | 06 Apr 2026 | Scikit-learn ML Workflow: data preparation, train/test split, Pipeline, ColumnTransformer, 5-fold cross-validation, Logistic Regression — 80.4% accuracy on Titanic. | [Notebook](.vscode/week03/day16_sklearn_ml_workflow.ipynb) |
 | 17 | 06 Apr 2026 | Linear Regression: OLS from scratch in NumPy, Ridge/Lasso/ElasticNet regularisation, regression metrics (MSE, RMSE, MAE, R²), residuals analysis on Titanic fares. | [Notebook](.vscode/week03/day17_linear_regression.ipynb) |
+| 18 | 07 Apr 2026 | Logistic Regression: sigmoid function, all classification metrics (accuracy, precision, recall, F1, ROC-AUC, log-loss), confusion matrix, threshold tuning — 81% accuracy, AUC=0.853. | [Notebook](.vscode/week03/day18_logistic_regression.ipynb) |
 ---
 
 ## 🚀 Projects (Building Throughout the Journey)
