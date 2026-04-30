@@ -45,6 +45,7 @@
 | 18 | 07 Apr 2026 | Logistic Regression: sigmoid function, all classification metrics (accuracy, precision, recall, F1, ROC-AUC, log-loss), confusion matrix, threshold tuning — 81% accuracy, AUC=0.853. | [Notebook](.vscode/week03/day18_logistic_regression.ipynb) |
 | 19 | 07 Apr 2026 | Decision Trees: Gini impurity, information gain, depth control, overfitting visualisation, feature importance — tree independently discovered "women and children first"! | [Notebook](.vscode/week03/day19_decision_trees.ipynb) |
 | 20 | 08 Apr 2026 | Random Forests: bagging, bootstrap aggregation, OOB score, n_estimators analysis, feature importance vs single tree — RF gives Fare 75x more importance than single tree! | [Notebook](.vscode/week03/day20_random_forests.ipynb) |
+| 21 | 08 Apr 2026 | XGBoost & Gradient Boosting: boosting vs bagging, GradientBoosting/XGBoost/LightGBM comparison, hyperparameter tuning — Logistic Regression wins on small Titanic dataset! | [Notebook](.vscode/week03/day21_xgboost.ipynb) |
 ---
 
 ## 🚀 Projects (Building Throughout the Journey)
