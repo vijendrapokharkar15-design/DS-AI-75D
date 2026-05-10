@@ -46,6 +46,7 @@
 | 19 | 07 Apr 2026 | Decision Trees: Gini impurity, information gain, depth control, overfitting visualisation, feature importance — tree independently discovered "women and children first"! | [Notebook](.vscode/week03/day19_decision_trees.ipynb) |
 | 20 | 08 Apr 2026 | Random Forests: bagging, bootstrap aggregation, OOB score, n_estimators analysis, feature importance vs single tree — RF gives Fare 75x more importance than single tree! | [Notebook](.vscode/week03/day20_random_forests.ipynb) |
 | 21 | 08 Apr 2026 | XGBoost & Gradient Boosting: boosting vs bagging, GradientBoosting/XGBoost/LightGBM comparison, hyperparameter tuning — Logistic Regression wins on small Titanic dataset! | [Notebook](.vscode/week03/day21_xgboost.ipynb) |
+| 22 | 09 Apr 2026 | Feature Engineering: feature creation (Title, FareLog, HasCabin, Age²), encoding (Label/OHE/Ordinal/Frequency), scaling (Standard/MinMax/Robust), feature selection — Logistic Regression improved +3.9% with engineered features! | [Notebook](.vscode/week04/day22_feature_engineering.ipynb) |
 ---
 
 ## 🚀 Projects (Building Throughout the Journey)
