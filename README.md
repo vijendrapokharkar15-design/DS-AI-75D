@@ -49,6 +49,7 @@
 | 22 | 09 Apr 2026 | Feature Engineering: feature creation (Title, FareLog, HasCabin, Age²), encoding (Label/OHE/Ordinal/Frequency), scaling (Standard/MinMax/Robust), feature selection — Logistic Regression improved +3.9% with engineered features! | [Notebook](.vscode/week04/day22_feature_engineering.ipynb) |
 | 23 | 09 Apr 2026 | Clustering & Unsupervised Learning: K-Means (elbow method, silhouette score), DBSCAN (outlier detection, arbitrary shapes), PCA (explained variance, loadings) — found same patterns as supervised learning without labels! | [Notebook](.vscode/week04/day23_clustering.ipynb) |
 | 24 | 10 Apr 2026 | Hyperparameter Tuning: GridSearchCV, RandomizedSearchCV, Optuna (Bayesian optimisation) — improved RF AUC from 0.833 to 0.852 (+1.9%) with best params found in 34 seconds! | [Notebook](.vscode/week04/day24_hyperparameter_tuning.ipynb) |
+| 25 | 10 Apr 2026 | Model Evaluation & Selection: bias-variance tradeoff, learning curves, StratifiedKFold, model comparison framework — Gradient Boosting best CV AUC (0.890) but Random Forest best generalisation! | [Notebook](.vscode/week04/day25_model_evaluation.ipynb) |
 ---
 
 ## 🚀 Projects (Building Throughout the Journey)
