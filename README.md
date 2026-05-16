@@ -51,6 +51,7 @@
 | 24 | 10 Apr 2026 | Hyperparameter Tuning: GridSearchCV, RandomizedSearchCV, Optuna (Bayesian optimisation) — improved RF AUC from 0.833 to 0.852 (+1.9%) with best params found in 34 seconds! | [Notebook](.vscode/week04/day24_hyperparameter_tuning.ipynb) |
 | 25 | 10 Apr 2026 | Model Evaluation & Selection: bias-variance tradeoff, learning curves, StratifiedKFold, model comparison framework — Gradient Boosting best CV AUC (0.890) but Random Forest best generalisation! | [Notebook](.vscode/week04/day25_model_evaluation.ipynb) |
 | 26 | 11 Apr 2026 | Imbalanced Data & SMOTE: accuracy paradox, class weights, SMOTE oversampling, undersampling, SMOTETomek, threshold tuning — improved minority recall from 9.1% to 81.8%! | [Notebook](.vscode/week04/day26_imbalanced_data.ipynb) |
+| 27 | 11 Apr 2026 | SHAP & Model Explainability: TreeExplainer, SHAP values, bar plot, beeswarm, waterfall plots — gender swing of 23.5% confirmed, SHAP more honest than RF feature importance! | [Notebook](.vscode/week04/day27_shap_explainability.ipynb) |
 ---
 
 ## 🚀 Projects (Building Throughout the Journey)
