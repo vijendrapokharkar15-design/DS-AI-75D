@@ -52,6 +52,7 @@
 | 25 | 10 Apr 2026 | Model Evaluation & Selection: bias-variance tradeoff, learning curves, StratifiedKFold, model comparison framework — Gradient Boosting best CV AUC (0.890) but Random Forest best generalisation! | [Notebook](.vscode/week04/day25_model_evaluation.ipynb) |
 | 26 | 11 Apr 2026 | Imbalanced Data & SMOTE: accuracy paradox, class weights, SMOTE oversampling, undersampling, SMOTETomek, threshold tuning — improved minority recall from 9.1% to 81.8%! | [Notebook](.vscode/week04/day26_imbalanced_data.ipynb) |
 | 27 | 11 Apr 2026 | SHAP & Model Explainability: TreeExplainer, SHAP values, bar plot, beeswarm, waterfall plots — gender swing of 23.5% confirmed, SHAP more honest than RF feature importance! | [Notebook](.vscode/week04/day27_shap_explainability.ipynb) |
+| 28 | 12 Apr 2026 | Time Series Basics: datetime indexing, rolling statistics, seasonal decomposition, ADF stationarity test, ARIMA(2,1,2) forecasting — seasonal pattern recovered (April +22.9, October -19.9). | [Notebook](.vscode/week04/day28_time_series.ipynb) |
 ---
 
 ## 🚀 Projects (Building Throughout the Journey)
