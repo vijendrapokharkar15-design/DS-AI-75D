@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![NumPy](https://img.shields.io/badge/NumPy-latest-orange?logo=numpy)
-![Status](https://img.shields.io/badge/Status-Day%2017%20of%2075-brightgreen)
+![Status](https://img.shields.io/badge/Status-Day%2029%20of%2075-brightgreen)
 
 > A fully documented 75-day execution plan to become job-ready for Data Scientist, ML Engineer, and AI Engineer roles — one deployed project per phase, built in public.
 
@@ -53,6 +53,7 @@
 | 26 | 11 Apr 2026 | Imbalanced Data & SMOTE: accuracy paradox, class weights, SMOTE oversampling, undersampling, SMOTETomek, threshold tuning — improved minority recall from 9.1% to 81.8%! | [Notebook](.vscode/week04/day26_imbalanced_data.ipynb) |
 | 27 | 11 Apr 2026 | SHAP & Model Explainability: TreeExplainer, SHAP values, bar plot, beeswarm, waterfall plots — gender swing of 23.5% confirmed, SHAP more honest than RF feature importance! | [Notebook](.vscode/week04/day27_shap_explainability.ipynb) |
 | 28 | 12 Apr 2026 | Time Series Basics: datetime indexing, rolling statistics, seasonal decomposition, ADF stationarity test, ARIMA(2,1,2) forecasting — seasonal pattern recovered (April +22.9, October -19.9). | [Notebook](.vscode/week04/day28_time_series.ipynb) |
+| 29 | 13 Apr 2026 | Phase 2 Review: complete ML pipeline comparison across all Days 16-28 — LR wins with Test AUC=0.872, 8 key lessons learned, Phase 2 complete! | [Notebook](.vscode/week05/day29_phase2_review.ipynb) |
 ---
 
 ## 🚀 Projects (Building Throughout the Journey)
