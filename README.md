@@ -54,7 +54,7 @@
 | 27 | 11 Apr 2026 | SHAP & Model Explainability: TreeExplainer, SHAP values, bar plot, beeswarm, waterfall plots — gender swing of 23.5% confirmed, SHAP more honest than RF feature importance! | [Notebook](.vscode/week04/day27_shap_explainability.ipynb) |
 | 28 | 12 Apr 2026 | Time Series Basics: datetime indexing, rolling statistics, seasonal decomposition, ADF stationarity test, ARIMA(2,1,2) forecasting — seasonal pattern recovered (April +22.9, October -19.9). | [Notebook](.vscode/week04/day28_time_series.ipynb) |
 | 29 | 13 Apr 2026 | Phase 2 Review: complete ML pipeline comparison across all Days 16-28 — LR wins with Test AUC=0.872, 8 key lessons learned, Phase 2 complete! | [Notebook](.vscode/week05/day29_phase2_review.ipynb) |
-| 30 | 13 Apr 2026 | Project 1 — Titanic Survival Predictor: full ML pipeline, Streamlit web app with SHAP explanations — 93.9% survival for 1st class female, 15.9% for 3rd class male! | [App](.vscode/week05/project1/app.py) |
+| 30 | 13 Apr 2026 | Project 1 — Titanic Survival Predictor: full ML pipeline, Streamlit web app with SHAP explanations — 93.9% survival for 1st class female, 15.9% for 3rd class male! | [App](.vscode/week05/project1/app.py) · [Notebook](.vscode/week05/day30_project1.ipynb) |
 ---
 
 ## 🚀 Projects (Building Throughout the Journey)
