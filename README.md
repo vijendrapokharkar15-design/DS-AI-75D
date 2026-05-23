@@ -2,8 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![NumPy](https://img.shields.io/badge/NumPy-latest-orange?logo=numpy)
-![Status](https://img.shields.io/badge/Status-Day%2031%20of%2075-brightgreen)
-
+![Status](https://img.shields.io/badge/Status-Day%2032%20of%2075-brightgreen)
 > A fully documented 75-day execution plan to become job-ready for Data Scientist, ML Engineer, and AI Engineer roles — one deployed project per phase, built in public.
 
 ---
@@ -56,6 +55,7 @@
 | 29 | 13 Apr 2026 | Phase 2 Review: complete ML pipeline comparison across all Days 16-28 — LR wins with Test AUC=0.872, 8 key lessons learned, Phase 2 complete! | [Notebook](.vscode/week05/day29_phase2_review.ipynb) |
 | 30 | 13 Apr 2026 | Project 1 — Titanic Survival Predictor: full ML pipeline, Streamlit web app with SHAP explanations — 93.9% survival for 1st class female, 15.9% for 3rd class male! | [🌐 Live App](https://vijendrapokharkar15-design-titanic-survival-predicto-app-wbdy2y.streamlit.app) · [Code](.vscode/week05/project1/app.py) · [Notebook](.vscode/week05/day30_project1.ipynb) |
 | 31 | 14 Apr 2026 | Project 1 Enhanced: 4-tab Streamlit app — Predict, Data Insights, Model Comparison (LR wins AUC=0.872), Batch Predict (305/891 survivors predicted, download CSV)! | [🌐 Live App](https://vijendrapokharkar15-design-titanic-survival-predicto-app-wbdy2y.streamlit.app) · [Code](.vscode/week05/project1/app.py) · [Notebook](.vscode/week05/day31_project1_enhanced.ipynb) |
+| 32 | 14 Apr 2026 | Deployment: pushed to Streamlit Cloud — app live at vijendrapokharkar15-design-titanic-survival-predicto-app-wbdy2y.streamlit.app — accessible worldwide, auto-deploys on git push! | [🌐 Live App](https://vijendrapokharkar15-design-titanic-survival-predicto-app-wbdy2y.streamlit.app) · [Notebook](.vscode/week05/day32_deployment.ipynb) |
 ---
 
 ## 🚀 Projects (Building Throughout the Journey)
