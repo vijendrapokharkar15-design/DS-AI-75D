@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![NumPy](https://img.shields.io/badge/NumPy-latest-orange?logo=numpy)
-![Status](https://img.shields.io/badge/Status-Day%2033%20of%2075-brightgreen)
+![Status](https://img.shields.io/badge/Status-Day%2034%20of%2075-brightgreen)
 > A fully documented 75-day execution plan to become job-ready for Data Scientist, ML Engineer, and AI Engineer roles — one deployed project per phase, built in public.
 
 ---
@@ -57,6 +57,7 @@
 | 31 | 14 Apr 2026 | Project 1 Enhanced: 4-tab Streamlit app — Predict, Data Insights, Model Comparison (LR wins AUC=0.872), Batch Predict (305/891 survivors predicted, download CSV)! | [🌐 Live App](https://vijendrapokharkar15-design-titanic-survival-predicto-app-wbdy2y.streamlit.app) · [Code](.vscode/week05/project1/app.py) · [Notebook](.vscode/week05/day31_project1_enhanced.ipynb) |
 | 32 | 14 Apr 2026 | Deployment: pushed to Streamlit Cloud — app live at vijendrapokharkar15-design-titanic-survival-predicto-app-wbdy2y.streamlit.app — accessible worldwide, auto-deploys on git push! | [🌐 Live App](https://vijendrapokharkar15-design-titanic-survival-predicto-app-wbdy2y.streamlit.app) · [Notebook](.vscode/week05/day32_deployment.ipynb) |
 | 33 | 15 Apr 2026 | Project 1 Polish: professional README with badges, model metrics table, how to run locally — CV AUC=0.8852, Test AUC=0.8487, Precision=80%, Recall=69.6%! | [🌐 Live App](https://vijendrapokharkar15-design-titanic-survival-predicto-app-wbdy2y.streamlit.app) · [Notebook](.vscode/week05/day33_project1_polish.ipynb) |
+| 34 | 15 Apr 2026 | Kaggle Titanic Submission: feature engineering pipeline on test set, RF + LR + GB + Ensemble predictions — Kaggle public score 0.76794 (beats naive baseline 0.766)! | [Notebook](.vscode/week05/day34_kaggle_submission.ipynb) |
 ---
 
 ## 🚀 Projects (Building Throughout the Journey)
