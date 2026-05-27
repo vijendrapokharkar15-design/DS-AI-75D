@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![NumPy](https://img.shields.io/badge/NumPy-latest-orange?logo=numpy)
-![Status](https://img.shields.io/badge/Status-Day%2034%20of%2075-brightgreen)
+![Status](https://img.shields.io/badge/Status-Day%2035%20of%2075-brightgreen)
 > A fully documented 75-day execution plan to become job-ready for Data Scientist, ML Engineer, and AI Engineer roles — one deployed project per phase, built in public.
 
 ---
@@ -12,7 +12,7 @@
 | Phase | Days | Focus | Status |
 |-------|------|-------|--------|
 | 1 — Foundations | 1–15 | Python · NumPy · Pandas · Polars · Stats · SQL | ✅ Complete |
-| 2 — Core ML | 16–35 | Scikit-learn · XGBoost · Feature Engineering · SHAP | 🔄 In Progress |
+| 2 — Core ML | 16–35 | Scikit-learn · XGBoost · Feature Engineering · SHAP | ✅ Complete|
 | 3 — Deep Learning & NLP | 36–50 | PyTorch · Transformers · Hugging Face | ⏳ Upcoming |
 | 4 — GenAI & LLMs | 51–63 | RAG · LangGraph · Fine-tuning · RAGAS | ⏳ Upcoming |
 | 5 — MLOps | 64–70 | Docker · FastAPI · MLflow · Evidently AI | ⏳ Upcoming |
@@ -58,6 +58,7 @@
 | 32 | 14 Apr 2026 | Deployment: pushed to Streamlit Cloud — app live at vijendrapokharkar15-design-titanic-survival-predicto-app-wbdy2y.streamlit.app — accessible worldwide, auto-deploys on git push! | [🌐 Live App](https://vijendrapokharkar15-design-titanic-survival-predicto-app-wbdy2y.streamlit.app) · [Notebook](.vscode/week05/day32_deployment.ipynb) |
 | 33 | 15 Apr 2026 | Project 1 Polish: professional README with badges, model metrics table, how to run locally — CV AUC=0.8852, Test AUC=0.8487, Precision=80%, Recall=69.6%! | [🌐 Live App](https://vijendrapokharkar15-design-titanic-survival-predicto-app-wbdy2y.streamlit.app) · [Notebook](.vscode/week05/day33_project1_polish.ipynb) |
 | 34 | 15 Apr 2026 | Kaggle Titanic Submission: feature engineering pipeline on test set, RF + LR + GB + Ensemble predictions — Kaggle public score 0.76794 (beats naive baseline 0.766)! | [Notebook](.vscode/week05/day34_kaggle_submission.ipynb) |
+| 35 | 16 Apr 2026 | Phase 2 Wrap-up: complete scorecard Days 16-35, 10 key lessons, Phase 3 preview — PyTorch, CNNs, NLP, Transformers, Hugging Face coming next! | [Notebook](.vscode/week05/day35_phase2_wrapup.ipynb) |
 ---
 
 ## 🚀 Projects (Building Throughout the Journey)
