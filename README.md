@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![NumPy](https://img.shields.io/badge/NumPy-latest-orange?logo=numpy)
-![Status](https://img.shields.io/badge/Status-Day%2036%20of%2075-brightgreen)
+![Status](https://img.shields.io/badge/Status-Day%2037%20of%2075-brightgreen)
 > A fully documented 75-day execution plan to become job-ready for Data Scientist, ML Engineer, and AI Engineer roles — one deployed project per phase, built in public.
 
 ---
@@ -60,6 +60,7 @@
 | 34 | 15 Apr 2026 | Kaggle Titanic Submission: feature engineering pipeline on test set, RF + LR + GB + Ensemble predictions — Kaggle public score 0.76794 (beats naive baseline 0.766)! | [Notebook](.vscode/week05/day34_kaggle_submission.ipynb) |
 | 35 | 16 Apr 2026 | Phase 2 Wrap-up: complete scorecard Days 16-35, 10 key lessons, Phase 3 preview — PyTorch, CNNs, NLP, Transformers, Hugging Face coming next! | [Notebook](.vscode/week05/day35_phase2_wrapup.ipynb) |
 | 36 | 28 May 2026 | Neural Networks & PyTorch: Perceptron, Activation Functions (Sigmoid, ReLU, Tanh), Backpropagation, First NN on Titanic — 84% accuracy | [Notebook](.vscode/week06/day36_neural_networks.ipynb) |
+| 37 | 29 May 2026 | Backpropagation & Optimisers: Gradients, Chain Rule, SGD vs Adam vs RMSprop, Learning Rate Scheduling | [Notebook](.vscode/week06/day37_backprop_optimisers.ipynb) |
 ---
 
 ## 🚀 Projects (Building Throughout the Journey)
