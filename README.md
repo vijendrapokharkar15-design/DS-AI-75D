@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![NumPy](https://img.shields.io/badge/NumPy-latest-orange?logo=numpy)
-![Status](https://img.shields.io/badge/Status-Day%2042%20of%2075-brightgreen)
+![Status](https://img.shields.io/badge/Status-Day%2043%20of%2075-brightgreen)
 > A fully documented 75-day execution plan to become job-ready for Data Scientist, ML Engineer, and AI Engineer roles — one deployed project per phase, built in public.
 
 ---
@@ -66,6 +66,7 @@
 | 40 | 02 Jun 2026 | RNNs & LSTMs: Hidden state, vanishing gradient, LSTM gates (forget/input/output), Sentiment Analysis — 100% accuracy | [Notebook](.vscode/week06/day40_rnn_lstm.ipynb) |
 | 41 | 03 Jun 2026 | NLP & Text Processing: Tokenisation, Stop Words, Stemming, Lemmatisation, TF-IDF, Text Classification — 100% accuracy | [Notebook](.vscode/week06/day41_nlp_text_processing.ipynb) |
 | 42 | 04 Jun 2026 | Transformers & BERT: Self-attention, Q/K/V, DistilBERT, Hugging Face pipeline, 7/7 sentiment predictions at 1.000 confidence | [Notebook](.vscode/week06/day42_transformers_bert.ipynb) |
+| 43 | 05 Jun 2026 | Generative AI & LLMs: GPT architecture, Prompt Engineering (zero-shot, few-shot, CoT), GPT-2 text generation, temperature & sampling parameters | [Notebook](.vscode/week07/day43_generative_ai_llms.ipynb) |
 ---
 
 ## 🚀 Projects (Building Throughout the Journey)
