@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![NumPy](https://img.shields.io/badge/NumPy-latest-orange?logo=numpy)
-![Status](https://img.shields.io/badge/Status-Day%2046%20of%2075-brightgreen)
+![Status](https://img.shields.io/badge/Status-Day%2047%20of%2075-brightgreen)
 > A fully documented 75-day execution plan to become job-ready for Data Scientist, ML Engineer, and AI Engineer roles — one deployed project per phase, built in public.
 
 ---
@@ -70,6 +70,7 @@
 | 44 | 06 Jun 2026 | End-to-End ML Pipeline: Feature Engineering, ColumnTransformer, 3 models compared, Logistic Regression 83.8% accuracy, joblib save/load | [Notebook](.vscode/week07/day44_end_to_end_ml.ipynb) |
 | 45 | 07 Jun 2026 | Flask Deployment: REST API, 3 endpoints (home/health/predict), ML model serving, 3/3 predictions correct — 1st class female 98%, 3rd class male 6%, 2nd class boy 77% | [Notebook](.vscode/week07/day45_flask_deployment.ipynb) |
 | 46 | 08 Jun 2026 | MLOps & Model Monitoring: Data Drift (KS Test, PSI), Concept Drift, Model Degradation simulation, Retraining strategies | [Notebook](.vscode/week07/day46_mlops_monitoring.ipynb) |
+| 47 | 09 Jun 2026 | Advanced Feature Engineering: Interactions, Ratios, Polynomials, Group Stats, SelectKBest, Mutual Info, RF Importance, 83.2% accuracy | [Notebook](.vscode/week07/day47_feature_engineering.ipynb) |
 ---
 
 ## 🚀 Projects (Building Throughout the Journey)
