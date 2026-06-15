@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![NumPy](https://img.shields.io/badge/NumPy-latest-orange?logo=numpy)
-![Status](https://img.shields.io/badge/Status-Day%2049%20of%2075-brightgreen)
+![Status](https://img.shields.io/badge/Status-Day%2050%20of%2075-brightgreen)
 > A fully documented 75-day execution plan to become job-ready for Data Scientist, ML Engineer, and AI Engineer roles — one deployed project per phase, built in public.
 
 ---
@@ -73,6 +73,7 @@
 | 47 | 09 Jun 2026 | Advanced Feature Engineering: Interactions, Ratios, Polynomials, Group Stats, SelectKBest, Mutual Info, RF Importance, 83.2% accuracy | [Notebook](.vscode/week07/day47_feature_engineering.ipynb) |
 | 48 | 10 Jun 2026 | Hyperparameter Tuning: Grid Search, Random Search, Optuna Bayesian Optimisation — best CV 0.8400, test accuracy 0.8212 | [Notebook](.vscode/week07/day48_hyperparameter_tuning.ipynb) |
 | 49 | 11 Jun 2026 | Ensemble Methods: Voting, Stacking, Bagging vs Boosting, Stacking best at 0.8268 | [Notebook](.vscode/week07/day49_ensemble_methods.ipynb) |
+| 50 | 12 Jun 2026 | Model Explainability: SHAP (global + local), LIME, Title_SurvRate top feature (0.1063), both methods agree on individual predictions | [Notebook](.vscode/week08/day50_model_explainability.ipynb) |
 ---
 
 ## 🚀 Projects (Building Throughout the Journey)
