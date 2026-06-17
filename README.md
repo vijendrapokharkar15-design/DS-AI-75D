@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![NumPy](https://img.shields.io/badge/NumPy-latest-orange?logo=numpy)
-![Status](https://img.shields.io/badge/Status-Day%2051%20of%2075-brightgreen)
+![Status](https://img.shields.io/badge/Status-Day%2048%20of%2075-brightgreen)
 > A fully documented 75-day execution plan to become job-ready for Data Scientist, ML Engineer, and AI Engineer roles — one deployed project per phase, built in public.
 
 ---
@@ -75,6 +75,7 @@
 | 49 | 11 Jun 2026 | Ensemble Methods: Voting, Stacking, Bagging vs Boosting, Stacking best at 0.8268 | [Notebook](.vscode/week07/day49_ensemble_methods.ipynb) |
 | 50 | 12 Jun 2026 | Model Explainability: SHAP (global + local), LIME, Title_SurvRate top feature (0.1063), both methods agree on individual predictions | [Notebook](.vscode/week08/day50_model_explainability.ipynb) 
 | 51 | 13 Jun 2026 | Time Series Forecasting: Decomposition (trend/seasonality/residual), ADF stationarity test, ARIMA vs Prophet — Prophet 2x better (MAE 5.95 vs 13.36) | [Notebook](.vscode/week08/day51_time_series_forecasting.ipynb) |
+| 48 | 14 Jun 2026 | PROJECT 2 (Part 1/2): NLP Text Classifier — Fine-tuned DistilBERT on BBC News (5 categories), 99% test accuracy | [Notebook](.vscode/week07/day48_49_nlp_classifier_project.ipynb) |
 ---
 
 ## 🚀 Projects (Building Throughout the Journey)
