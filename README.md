@@ -71,10 +71,6 @@
 | 45 | 07 Jun 2026 | Flask Deployment: REST API, 3 endpoints (home/health/predict), ML model serving, 3/3 predictions correct — 1st class female 98%, 3rd class male 6%, 2nd class boy 77% | [Notebook](.vscode/week07/day45_flask_deployment.ipynb) |
 | 46 | 08 Jun 2026 | MLOps & Model Monitoring: Data Drift (KS Test, PSI), Concept Drift, Model Degradation simulation, Retraining strategies | [Notebook](.vscode/week07/day46_mlops_monitoring.ipynb) |
 | 47 | 09 Jun 2026 | Advanced Feature Engineering: Interactions, Ratios, Polynomials, Group Stats, SelectKBest, Mutual Info, RF Importance, 83.2% accuracy | [Notebook](.vscode/week07/day47_feature_engineering.ipynb) |
-| 48 | 10 Jun 2026 | Hyperparameter Tuning: Grid Search, Random Search, Optuna Bayesian Optimisation — best CV 0.8400, test accuracy 0.8212 | [Notebook](.vscode/week07/day48_hyperparameter_tuning.ipynb) |
-| 49 | 11 Jun 2026 | Ensemble Methods: Voting, Stacking, Bagging vs Boosting, Stacking best at 0.8268 | [Notebook](.vscode/week07/day49_ensemble_methods.ipynb) |
-| 50 | 12 Jun 2026 | Model Explainability: SHAP (global + local), LIME, Title_SurvRate top feature (0.1063), both methods agree on individual predictions | [Notebook](.vscode/week08/day50_model_explainability.ipynb) 
-| 51 | 13 Jun 2026 | Time Series Forecasting: Decomposition (trend/seasonality/residual), ADF stationarity test, ARIMA vs Prophet — Prophet 2x better (MAE 5.95 vs 13.36) | [Notebook](.vscode/week08/day51_time_series_forecasting.ipynb) |
 | 48 | 14 Jun 2026 | PROJECT 2 (Part 1/2): NLP Text Classifier — Fine-tuned DistilBERT on BBC News (5 categories), 99% test accuracy | [Notebook](.vscode/week07/day48_49_nlp_classifier_project.ipynb) |
 | 49 | 18 Jun 2026 | PROJECT 2 (Part 2/2): FastAPI /predict endpoint, Pydantic validation, Swagger docs, Dockerized + deployed on Hugging Face Spaces | [App](https://huggingface.co/spaces/VijendraHuggingface/bbc-news-classifier) · [Code](.vscode/week07/day49_fastapi_app/main.py) |
 ---
