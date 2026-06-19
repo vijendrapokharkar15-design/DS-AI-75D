@@ -79,8 +79,8 @@
 
 | # | Project | Stack | Status | Demo |
 |---|---------|-------|--------|------|
-| 1 | Predictive Analytics App | XGBoost · SHAP · Streamlit | ⏳ Day 30–35 | — |
-| 2 | NLP Classifier API | DistilBERT · FastAPI · Docker | ⏳ Day 48–49 | — |
+| 1 | Titanic Survival Predictor | XGBoost · SHAP · Streamlit | ✅ Complete | [🌐 Live App](https://vijendrapokharkar15-design-titanic-survival-predicto-app-wbdy2y.streamlit.app) |
+| 2 | BBC News Classifier API | DistilBERT · FastAPI · Docker | ✅ Complete | [🌐 Live API](https://huggingface.co/spaces/VijendraHuggingface/bbc-news-classifier) |
 | 3 | AI-Powered RAG Assistant | LlamaIndex · Pinecone · Claude API | ⏳ Day 63 | — |
 | 4 | Production ML Service | FastAPI · MLflow · GitHub Actions | ⏳ Day 70 | — |
 
