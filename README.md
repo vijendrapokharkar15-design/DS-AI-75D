@@ -73,6 +73,7 @@
 | 47 | 09 Jun 2026 | Advanced Feature Engineering: Interactions, Ratios, Polynomials, Group Stats, SelectKBest, Mutual Info, RF Importance, 83.2% accuracy | [Notebook](.vscode/week07/day47_feature_engineering.ipynb) |
 | 48 | 14 Jun 2026 | PROJECT 2 (Part 1/2): NLP Text Classifier — Fine-tuned DistilBERT on BBC News (5 categories), 99% test accuracy | [Notebook](.vscode/week07/day48_49_nlp_classifier_project.ipynb) |
 | 49 | 18 Jun 2026 | PROJECT 2 (Part 2/2): FastAPI /predict endpoint, Pydantic validation, Swagger docs, Dockerized + deployed on Hugging Face Spaces | [App](https://huggingface.co/spaces/VijendraHuggingface/bbc-news-classifier) · [Code](.vscode/week07/day49_fastapi_app/main.py) |
+| 50 | 19 Jun 2026 | Phase 3 Review: GitHub portfolio polish, Projects 1 & 2 live, LinkedIn post — Phase 3 complete! | — |
 ---
 
 ## 🚀 Projects (Building Throughout the Journey)
