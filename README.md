@@ -13,7 +13,7 @@
 |-------|------|-------|--------|
 | 1 — Foundations | 1–15 | Python · NumPy · Pandas · Polars · Stats · SQL | ✅ Complete |
 | 2 — Core ML | 16–35 | Scikit-learn · XGBoost · Feature Engineering · SHAP | ✅ Complete|
-| 3 — Deep Learning & NLP | 36–50 | PyTorch · Transformers · Hugging Face | ⏳ Upcoming |
+| 3 — Deep Learning & NLP | 36–50 | PyTorch · Transformers · Hugging Face | ✅ Complete |
 | 4 — GenAI & LLMs | 51–63 | RAG · LangGraph · Fine-tuning · RAGAS | ⏳ Upcoming |
 | 5 — MLOps | 64–70 | Docker · FastAPI · MLflow · Evidently AI | ⏳ Upcoming |
 | 6 — Portfolio & Jobs | 71–75 | GitHub Polish · Resume · Job Applications | ⏳ Upcoming |
