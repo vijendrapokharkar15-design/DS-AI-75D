@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![NumPy](https://img.shields.io/badge/NumPy-latest-orange?logo=numpy)
-![Status](https://img.shields.io/badge/Status-Day%2050%20of%2075-brightgreen)
+![Status](https://img.shields.io/badge/Status-Day%2051%20of%2075-brightgreen)
 > A fully documented 75-day execution plan to become job-ready for Data Scientist, ML Engineer, and AI Engineer roles — one deployed project per phase, built in public.
 
 ---
@@ -14,7 +14,7 @@
 | 1 — Foundations | 1–15 | Python · NumPy · Pandas · Polars · Stats · SQL | ✅ Complete |
 | 2 — Core ML | 16–35 | Scikit-learn · XGBoost · Feature Engineering · SHAP | ✅ Complete|
 | 3 — Deep Learning & NLP | 36–50 | PyTorch · Transformers · Hugging Face | ✅ Complete |
-| 4 — GenAI & LLMs | 51–63 | RAG · LangGraph · Fine-tuning · RAGAS | ⏳ Upcoming |
+| 4 — GenAI & LLM | 51–63 | RAG · LangGraph · Fine-tuning · RAGAS        | 🔄 In Progress |
 | 5 — MLOps | 64–70 | Docker · FastAPI · MLflow · Evidently AI | ⏳ Upcoming |
 | 6 — Portfolio & Jobs | 71–75 | GitHub Polish · Resume · Job Applications | ⏳ Upcoming |
 
@@ -74,6 +74,7 @@
 | 48 | 14 Jun 2026 | PROJECT 2 (Part 1/2): NLP Text Classifier — Fine-tuned DistilBERT on BBC News (5 categories), 99% test accuracy | [Notebook](.vscode/week07/day48_49_nlp_classifier_project.ipynb) |
 | 49 | 18 Jun 2026 | PROJECT 2 (Part 2/2): FastAPI /predict endpoint, Pydantic validation, Swagger docs, Dockerized + deployed on Hugging Face Spaces | [App](https://huggingface.co/spaces/VijendraHuggingface/bbc-news-classifier) · [Code](.vscode/week07/day49_fastapi_app/main.py) |
 | 50 | 19 Jun 2026 | Phase 3 Review: GitHub portfolio polish, Projects 1 & 2 live, LinkedIn post — Phase 3 complete! | — |
+| 51 | 20 Jun 2026 | LLM Landscape 2026: provider/model comparison (OpenAI, Anthropic, Google, Meta, DeepSeek), real-cost analysis across 9 models, model selection router function, written decision framework | [Notebook](.vscode/week08/day51_llm_landscape.ipynb) |
 ---
 
 ## 🚀 Projects (Building Throughout the Journey)
