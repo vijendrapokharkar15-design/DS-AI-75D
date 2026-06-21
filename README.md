@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![NumPy](https://img.shields.io/badge/NumPy-latest-orange?logo=numpy)
-![Status](https://img.shields.io/badge/Status-Day%2051%20of%2075-brightgreen)
+![Status](https://img.shields.io/badge/Status-Day%2052%20of%2075-brightgreen)
 > A fully documented 75-day execution plan to become job-ready for Data Scientist, ML Engineer, and AI Engineer roles — one deployed project per phase, built in public.
 
 ---
@@ -75,6 +75,7 @@
 | 49 | 18 Jun 2026 | PROJECT 2 (Part 2/2): FastAPI /predict endpoint, Pydantic validation, Swagger docs, Dockerized + deployed on Hugging Face Spaces | [App](https://huggingface.co/spaces/VijendraHuggingface/bbc-news-classifier) · [Code](.vscode/week07/day49_fastapi_app/main.py) |
 | 50 | 19 Jun 2026 | Phase 3 Review: GitHub portfolio polish, Projects 1 & 2 live, LinkedIn post — Phase 3 complete! | — |
 | 51 | 20 Jun 2026 | LLM Landscape 2026: provider/model comparison (OpenAI, Anthropic, Google, Meta, DeepSeek), real-cost analysis across 9 models, model selection router function, written decision framework | [Notebook](.vscode/week08/day51_llm_landscape.ipynb) |
+| 52 | 21 Jun 2026 | Prompt Engineering: 14 patterns - zero-shot, few-shot, chain-of-thought, system prompts, structured JSON, tool use, persona, XML tags, negative examples, temperature, prompt chaining, self-consistency | [Notebook](.vscode/week08/day52_prompt_engineering.ipynb) |
 ---
 
 ## 🚀 Projects (Building Throughout the Journey)
