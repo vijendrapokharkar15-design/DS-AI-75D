@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![NumPy](https://img.shields.io/badge/NumPy-latest-orange?logo=numpy)
-![Status](https://img.shields.io/badge/Status-Day%2054%20of%2075-brightgreen)
+![Status](https://img.shields.io/badge/Status-Day%2055%20of%2075-brightgreen)
 > A fully documented 75-day execution plan to become job-ready for Data Scientist, ML Engineer, and AI Engineer roles — one deployed project per phase, built in public.
 
 ---
@@ -78,6 +78,7 @@
 | 52 | 21 Jun 2026 | Prompt Engineering: 14 patterns - zero-shot, few-shot, chain-of-thought, system prompts, structured JSON, tool use, persona, XML tags, negative examples, temperature, prompt chaining, self-consistency | [Notebook](.vscode/week08/day52_prompt_engineering.ipynb) |
 | 53 | 22 Jun 2026 | LLM APIs: streaming responses, retry/error handling, full tool calling loop, Anthropic vs OpenAI SDK comparison | [Notebook](.vscode/week08/day53_llm_apis.ipynb) |
 | 54 | 23 Jun 2026 | LLM Evaluation: faithfulness, relevancy, correctness scoring via LLM-as-judge, hallucination detection, batch evaluation pipeline across 9 answer combinations | [Notebook](.vscode/week08/day54_llm_evaluation.ipynb) |
+| 55 | 24 Jun 2026 | RAG Fundamentals: fixed-size & recursive chunking, all-MiniLM-L6-v2 embeddings, ChromaDB vector store, semantic retrieval, full RAG Q&A pipeline | [Notebook](.vscode/week08/day55_rag_fundamentals.ipynb) |
 ---
 
 ## 🚀 Projects (Building Throughout the Journey)
