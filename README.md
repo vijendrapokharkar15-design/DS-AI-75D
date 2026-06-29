@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![NumPy](https://img.shields.io/badge/NumPy-latest-orange?logo=numpy)
-![Status](https://img.shields.io/badge/Status-Day%2058%20of%2075-brightgreen)
+![Status](https://img.shields.io/badge/Status-Day%2059%20of%2075-brightgreen)
 > A fully documented 75-day execution plan to become job-ready for Data Scientist, ML Engineer, and AI Engineer roles — one deployed project per phase, built in public.
 
 ---
@@ -82,6 +82,7 @@
 | 56 | 25 Jun 2026 | Advanced RAG: citation tracking, query transformation, HyDE (Hypothetical Document Embeddings), multi-turn conversation with history | [Notebook](.vscode/week08/day56_advanced_rag.ipynb) |
 | 57 | 27 Jun 2026 | Production RAG with LlamaIndex: orchestration, cost tracking per query, step-by-step tracing, prompt injection attack and defence | [Notebook](.vscode/week09/day57_production_rag.ipynb) |
 | 58 | 28 Jun 2026 | AI Agents: ReAct pattern (manual loop), LangGraph stateful agent, parallel tool calls, in-context memory across 3 conversation turns | [Notebook](.vscode/week09/day58_ai_agents.ipynb) |
+| 59 | 29 Jun 2026 | Multi-Agent Patterns: supervisor/worker routing, parallel agents with threading, self-correction quality loop, CrewAI vs LangGraph comparison | [Notebook](.vscode/week09/day59_multi_agent.ipynb) |
 ---
 
 ## 🚀 Projects (Building Throughout the Journey)
