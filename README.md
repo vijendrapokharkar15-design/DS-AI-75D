@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![NumPy](https://img.shields.io/badge/NumPy-latest-orange?logo=numpy)
-![Status](https://img.shields.io/badge/Status-Day%2059%20of%2075-brightgreen)
+![Status](https://img.shields.io/badge/Status-Day%2060%20of%2075-brightgreen)
 > A fully documented 75-day execution plan to become job-ready for Data Scientist, ML Engineer, and AI Engineer roles — one deployed project per phase, built in public.
 
 ---
@@ -83,6 +83,7 @@
 | 57 | 27 Jun 2026 | Production RAG with LlamaIndex: orchestration, cost tracking per query, step-by-step tracing, prompt injection attack and defence | [Notebook](.vscode/week09/day57_production_rag.ipynb) |
 | 58 | 28 Jun 2026 | AI Agents: ReAct pattern (manual loop), LangGraph stateful agent, parallel tool calls, in-context memory across 3 conversation turns | [Notebook](.vscode/week09/day58_ai_agents.ipynb) |
 | 59 | 29 Jun 2026 | Multi-Agent Patterns: supervisor/worker routing, parallel agents with threading, self-correction quality loop, CrewAI vs LangGraph comparison | [Notebook](.vscode/week09/day59_multi_agent.ipynb) |
+| 60 | 30 Jun 2026 | LLM Fine-Tuning Theory: decision framework (prompting vs RAG vs fine-tuning), LoRA math demonstrated, QLoRA explained, PEFT library hands-on (DistilBERT, 1.1% trainable params), Day 61 GPU setup checklist | [Notebook](.vscode/week09/day60_finetuning_theory.ipynb) |
 ---
 
 ## 🚀 Projects (Building Throughout the Journey)
