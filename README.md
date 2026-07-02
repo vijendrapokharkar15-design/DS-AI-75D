@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![NumPy](https://img.shields.io/badge/NumPy-latest-orange?logo=numpy)
-![Status](https://img.shields.io/badge/Status-Day%2061%20of%2075-brightgreen)
+![Status](https://img.shields.io/badge/Status-Day%2062%20of%2075-brightgreen)
 > A fully documented 75-day execution plan to become job-ready for Data Scientist, ML Engineer, and AI Engineer roles — one deployed project per phase, built in public.
 
 ---
@@ -85,6 +85,7 @@
 | 59 | 29 Jun 2026 | Multi-Agent Patterns: supervisor/worker routing, parallel agents with threading, self-correction quality loop, CrewAI vs LangGraph comparison | [Notebook](.vscode/week09/day59_multi_agent.ipynb) |
 | 60 | 30 Jun 2026 | LLM Fine-Tuning Theory: decision framework (prompting vs RAG vs fine-tuning), LoRA math demonstrated, QLoRA explained, PEFT library hands-on (DistilBERT, 1.1% trainable params), Day 61 GPU setup checklist | [Notebook](.vscode/week09/day60_finetuning_theory.ipynb) |
 | 61 | 01 Jul 2026 | QLoRA Fine-Tuning: Phi-3-mini (3.8B) fine-tuned with Unsloth on Google Colab T4 GPU, 0.78% trainable params, custom DS/AI dataset, model pushed to Hugging Face Hub | [Notebook](.vscode/week09/day61_finetuning_qlora.ipynb) · [Model](https://huggingface.co/VijendraHuggingface/phi3-mini-ds-ai-finetuned) |
+| 62 | 02 Jul 2026 | Responsible AI: 6 bias types, fairness metrics (demographic parity, equal opportunity), EU AI Act 4-tier framework, 7 hallucination mitigation strategies, model card written and pushed to HF Hub | [Notebook](.vscode/week09/day62_responsible_ai.ipynb) |
 ---
 
 ## 🚀 Projects (Building Throughout the Journey)
