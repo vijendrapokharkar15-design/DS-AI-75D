@@ -1,0 +1,5 @@
+gradio
+pypdf
+chromadb
+sentence-transformers
+anthropic
