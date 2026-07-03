@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![NumPy](https://img.shields.io/badge/NumPy-latest-orange?logo=numpy)
-![Status](https://img.shields.io/badge/Status-Day%2062%20of%2075-brightgreen)
+![Status](https://img.shields.io/badge/Status-Day%2063%20of%2075-brightgreen)
 > A fully documented 75-day execution plan to become job-ready for Data Scientist, ML Engineer, and AI Engineer roles — one deployed project per phase, built in public.
 
 ---
@@ -12,9 +12,9 @@
 | Phase | Days | Focus | Status |
 |-------|------|-------|--------|
 | 1 — Foundations | 1–15 | Python · NumPy · Pandas · Polars · Stats · SQL | ✅ Complete |
-| 2 — Core ML | 16–35 | Scikit-learn · XGBoost · Feature Engineering · SHAP | ✅ Complete|
+| 2 — Core ML | 16–35 | Scikit-learn · XGBoost · Feature Engineering · SHAP | ✅ Complete |
 | 3 — Deep Learning & NLP | 36–50 | PyTorch · Transformers · Hugging Face | ✅ Complete |
-| 4 — GenAI & LLM | 51–63 | RAG · LangGraph · Fine-tuning · RAGAS        | 🔄 In Progress |
+| 4 — GenAI & LLM | 51–63 | RAG · LangGraph · Fine-tuning · RAGAS        | ✅ Complete |
 | 5 — MLOps | 64–70 | Docker · FastAPI · MLflow · Evidently AI | ⏳ Upcoming |
 | 6 — Portfolio & Jobs | 71–75 | GitHub Polish · Resume · Job Applications | ⏳ Upcoming |
 
@@ -86,6 +86,7 @@
 | 60 | 30 Jun 2026 | LLM Fine-Tuning Theory: decision framework (prompting vs RAG vs fine-tuning), LoRA math demonstrated, QLoRA explained, PEFT library hands-on (DistilBERT, 1.1% trainable params), Day 61 GPU setup checklist | [Notebook](.vscode/week09/day60_finetuning_theory.ipynb) |
 | 61 | 01 Jul 2026 | QLoRA Fine-Tuning: Phi-3-mini (3.8B) fine-tuned with Unsloth on Google Colab T4 GPU, 0.78% trainable params, custom DS/AI dataset, model pushed to Hugging Face Hub | [Notebook](.vscode/week09/day61_finetuning_qlora.ipynb) · [Model](https://huggingface.co/VijendraHuggingface/phi3-mini-ds-ai-finetuned) |
 | 62 | 02 Jul 2026 | Responsible AI: 6 bias types, fairness metrics (demographic parity, equal opportunity), EU AI Act 4-tier framework, 7 hallucination mitigation strategies, model card written and pushed to HF Hub | [Notebook](.vscode/week09/day62_responsible_ai.ipynb) |
+| 63 | 03 Jul 2026 | PROJECT 3: AI-Powered RAG Assistant — PDF/URL ingestion, ChromaDB vector store, streaming LLM responses with source citations, deployed on Hugging Face Spaces | [App](https://huggingface.co/spaces/VijendraHuggingface/rag-assistant) · [Code](.vscode/week09/day63_rag_assistant/) |
 ---
 
 ## 🚀 Projects (Building Throughout the Journey)
@@ -94,7 +95,7 @@
 |---|---------|-------|--------|------|
 | 1 | Titanic Survival Predictor | XGBoost · SHAP · Streamlit | ✅ Complete | [🌐 Live App](https://vijendrapokharkar15-design-titanic-survival-predicto-app-wbdy2y.streamlit.app) |
 | 2 | BBC News Classifier API | DistilBERT · FastAPI · Docker | ✅ Complete | [🌐 Live API](https://huggingface.co/spaces/VijendraHuggingface/bbc-news-classifier) |
-| 3 | AI-Powered RAG Assistant | LlamaIndex · Pinecone · Claude API | ⏳ Day 63 | — |
+| 3 | AI-Powered RAG Assistant | ChromaDB · Gradio · Claude API | ✅ Complete | [🌐 Live App](https://huggingface.co/spaces/VijendraHuggingface/rag-assistant) |
 | 4 | Production ML Service | FastAPI · MLflow · GitHub Actions | ⏳ Day 70 | — |
 
 ---
