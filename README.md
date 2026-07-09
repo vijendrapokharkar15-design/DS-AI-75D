@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![NumPy](https://img.shields.io/badge/NumPy-latest-orange?logo=numpy)
-![Status](https://img.shields.io/badge/Status-Day%2063%20of%2075-brightgreen)
+![Status](https://img.shields.io/badge/Status-Day%2064%20of%2075-brightgreen)
 > A fully documented 75-day execution plan to become job-ready for Data Scientist, ML Engineer, and AI Engineer roles — one deployed project per phase, built in public.
 
 ---
@@ -87,6 +87,7 @@
 | 61 | 01 Jul 2026 | QLoRA Fine-Tuning: Phi-3-mini (3.8B) fine-tuned with Unsloth on Google Colab T4 GPU, 0.78% trainable params, custom DS/AI dataset, model pushed to Hugging Face Hub | [Notebook](.vscode/week09/day61_finetuning_qlora.ipynb) · [Model](https://huggingface.co/VijendraHuggingface/phi3-mini-ds-ai-finetuned) |
 | 62 | 02 Jul 2026 | Responsible AI: 6 bias types, fairness metrics (demographic parity, equal opportunity), EU AI Act 4-tier framework, 7 hallucination mitigation strategies, model card written and pushed to HF Hub | [Notebook](.vscode/week09/day62_responsible_ai.ipynb) |
 | 63 | 03 Jul 2026 | PROJECT 3: AI-Powered RAG Assistant — PDF/URL ingestion, ChromaDB vector store, streaming LLM responses with source citations, deployed on Hugging Face Spaces | [App](https://huggingface.co/spaces/VijendraHuggingface/rag-assistant) · [Code](.vscode/week09/day63_rag_assistant/) |
+| 64 | 09 Jul 2026 | Docker Deep Dive: Dockerfile instructions, best practices (slim images, layer caching, .dockerignore, secrets), multi-stage builds, docker-compose ML stack (API + Redis + Prometheus) | [Notebook](.vscode/week10/day64_docker_deep_dive.ipynb) |
 ---
 
 ## 🚀 Projects (Building Throughout the Journey)
