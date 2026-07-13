@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![NumPy](https://img.shields.io/badge/NumPy-latest-orange?logo=numpy)
-![Status](https://img.shields.io/badge/Status-Day%2065%20of%2075-brightgreen)
+![Status](https://img.shields.io/badge/Status-Day%2066%20of%2075-brightgreen)
 > A fully documented 75-day execution plan to become job-ready for Data Scientist, ML Engineer, and AI Engineer roles — one deployed project per phase, built in public.
 
 ---
@@ -89,6 +89,7 @@
 | 63 | 03 Jul 2026 | PROJECT 3: AI-Powered RAG Assistant — PDF/URL ingestion, ChromaDB vector store, streaming LLM responses with source citations, deployed on Hugging Face Spaces | [App](https://huggingface.co/spaces/VijendraHuggingface/rag-assistant) · [Code](.vscode/week09/day63_rag_assistant/) |
 | 64 | 09 Jul 2026 | Docker Deep Dive: Dockerfile instructions, best practices (slim images, layer caching, .dockerignore, secrets), multi-stage builds, docker-compose ML stack (API + Redis + Prometheus) | [Notebook](.vscode/week10/day64_docker_deep_dive.ipynb) |
 | 65 | 12 Jul 2026 | FastAPI for ML: Pydantic validation, custom validators, lifespan events, middleware, batch inference, health checks, auto Swagger docs — all endpoints tested live | [Notebook](.vscode/week10/day65_fastapi_ml.ipynb) |
+| 66 | 13 Jul 2026 | MLflow + W&B: experiment tracking (3 runs logged), model registry stages, hyperparameter sweep (18 combinations, best AUC=0.9547), MLflow vs W&B comparison | [Notebook](.vscode/week10/day66_mlflow_wandb.ipynb) |
 ---
 
 ## 🚀 Projects (Building Throughout the Journey)
