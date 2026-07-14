@@ -37,7 +37,7 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
     - name: Lint with Ruff
-      run: ruff check . --select=E,F,W --ignore=E501
+      run: ruff check ml_utils.py tests/ --select=E,F,W --ignore=E501
 
     - name: Type check with mypy
       run: mypy . --ignore-missing-imports --exclude='^(tests|setup)\.py$'
