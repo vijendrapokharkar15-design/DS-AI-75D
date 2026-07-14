@@ -1,6 +1,5 @@
 
 import numpy as np
-from typing import Union
 
 def preprocess_features(features: list[float]) -> np.ndarray:
     """Validate and preprocess input features."""
