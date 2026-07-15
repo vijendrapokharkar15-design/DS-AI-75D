@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![NumPy](https://img.shields.io/badge/NumPy-latest-orange?logo=numpy)
-![Status](https://img.shields.io/badge/Status-Day%2067%20of%2075-brightgreen)
+![Status](https://img.shields.io/badge/Status-Day%2068%20of%2075-brightgreen)
 > A fully documented 75-day execution plan to become job-ready for Data Scientist, ML Engineer, and AI Engineer roles — one deployed project per phase, built in public.
 
 ---
@@ -91,6 +91,7 @@
 | 65 | 12 Jul 2026 | FastAPI for ML: Pydantic validation, custom validators, lifespan events, middleware, batch inference, health checks, auto Swagger docs — all endpoints tested live | [Notebook](.vscode/week10/day65_fastapi_ml.ipynb) |
 | 66 | 13 Jul 2026 | MLflow + W&B: experiment tracking (3 runs logged), model registry stages, hyperparameter sweep (18 combinations, best AUC=0.9547), MLflow vs W&B comparison | [Notebook](.vscode/week10/day66_mlflow_wandb.ipynb) |
 | 67 | 14 Jul 2026 | CI/CD with GitHub Actions: pytest (13 tests passing), Ruff linting, mypy type checking, matrix testing on Python 3.11 + 3.12, live workflow running on every push | [Notebook](.vscode/week10/day67_cicd_github_actions.ipynb) · [Workflow](.github/workflows/ml_pipeline_ci.yml) |
+| 68 | 15 Jul 2026 | Cloud Deployment: AWS S3 storage patterns, EC2 vs Lambda vs SageMaker decision framework, cost estimation calculator (Lambda $0.23/month vs EC2 $31.78/month at low traffic), SageMaker 7-component overview | [Notebook](.vscode/week10/day68_cloud_deployment.ipynb) |
 ---
 
 ## 🚀 Projects (Building Throughout the Journey)
