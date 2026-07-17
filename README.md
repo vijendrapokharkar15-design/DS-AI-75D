@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![NumPy](https://img.shields.io/badge/NumPy-latest-orange?logo=numpy)
-![Status](https://img.shields.io/badge/Status-Day%2069%20of%2075-brightgreen)
+![Status](https://img.shields.io/badge/Status-Day%2070%20of%2075-brightgreen)
 > A fully documented 75-day execution plan to become job-ready for Data Scientist, ML Engineer, and AI Engineer roles — one deployed project per phase, built in public.
 
 ---
@@ -93,6 +93,7 @@
 | 67 | 14 Jul 2026 | CI/CD with GitHub Actions: pytest (13 tests passing), Ruff linting, mypy type checking, matrix testing on Python 3.11 + 3.12, live workflow running on every push | [Notebook](.vscode/week10/day67_cicd_github_actions.ipynb) · [Workflow](.github/workflows/ml_pipeline_ci.yml) |
 | 68 | 15 Jul 2026 | Cloud Deployment: AWS S3 storage patterns, EC2 vs Lambda vs SageMaker decision framework, cost estimation calculator (Lambda $0.23/month vs EC2 $31.78/month at low traffic), SageMaker 7-component overview | [Notebook](.vscode/week10/day68_cloud_deployment.ipynb) |
 | 69 | 16 Jul 2026 | Model Monitoring with Evidently AI: data drift detection (K-S, chi-square, Z-test), 3/7 columns drifted detected, alerting thresholds with WARNING/CRITICAL levels, recommended actions | [Notebook](.vscode/week10/day69_model_monitoring.ipynb) |
+| 70 | 17 Jul 2026 | PROJECT 4: Production ML Service — MLflow-tracked RF model (AUC=0.9635), FastAPI with /predict + /health + /metrics + /monitor endpoints, Dockerised, Evidently drift monitoring integrated | [Notebook](.vscode/week10/day70_project4.ipynb) · [Code](.vscode/week10/day70_production_ml_service/) |
 ---
 
 ## 🚀 Projects (Building Throughout the Journey)
@@ -102,7 +103,7 @@
 | 1 | Titanic Survival Predictor | XGBoost · SHAP · Streamlit | ✅ Complete | [🌐 Live App](https://vijendrapokharkar15-design-titanic-survival-predicto-app-wbdy2y.streamlit.app) |
 | 2 | BBC News Classifier API | DistilBERT · FastAPI · Docker | ✅ Complete | [🌐 Live API](https://huggingface.co/spaces/VijendraHuggingface/bbc-news-classifier) |
 | 3 | AI-Powered RAG Assistant | ChromaDB · Gradio · Claude API | ✅ Complete | [🌐 Live App](https://huggingface.co/spaces/VijendraHuggingface/rag-assistant) |
-| 4 | Production ML Service | FastAPI · MLflow · GitHub Actions | ⏳ Day 70 | — |
+| 4 | Production ML Service | scikit-learn · MLflow · FastAPI · Docker · Evidently AI | ✅ Complete | [Code](.vscode/week10/day70_production_ml_service/) |
 
 ---
 
