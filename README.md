@@ -98,12 +98,16 @@
 
 ## 🚀 Projects (Building Throughout the Journey)
 
-| # | Project | Stack | Status | Demo |
-|---|---------|-------|--------|------|
-| 1 | Titanic Survival Predictor | XGBoost · SHAP · Streamlit | ✅ Complete | [🌐 Live App](https://vijendrapokharkar15-design-titanic-survival-predicto-app-wbdy2y.streamlit.app) |
-| 2 | BBC News Classifier API | DistilBERT · FastAPI · Docker | ✅ Complete | [🌐 Live API](https://huggingface.co/spaces/VijendraHuggingface/bbc-news-classifier) |
-| 3 | AI-Powered RAG Assistant | ChromaDB · Gradio · Claude API | ✅ Complete | [🌐 Live App](https://huggingface.co/spaces/VijendraHuggingface/rag-assistant) |
-| 4 | Production ML Service | scikit-learn · MLflow · FastAPI · Docker · Evidently AI | ✅ Complete | [Code](.vscode/week10/day70_production_ml_service/) |
+## 🚀 Projects (Building Throughout the Journey)
+
+| # | Project                  | Stack                              | Status      | Links |
+| --- | ------------------------ | ----------------------------------- | ----------- | ---- |
+| 1 | Titanic Survival Predictor | Random Forest · SHAP · Streamlit  | ✅ Complete | [Live App](https://vijendrapokharkar15-design-titanic-survival-predicto-app-wbdy2y.streamlit.app) · [Repo](https://github.com/vijendrapokharkar15-design/titanic-survival-predictor) |
+| 2 | NLP Classifier API       | DistilBERT · FastAPI · Docker      | ✅ Complete | [App](https://huggingface.co/spaces/VijendraHuggingface/bbc-news-classifier) · [README](.vscode/week07/day49_fastapi_app/README.md) |
+| 3 | AI-Powered RAG Assistant | ChromaDB · Claude Haiku · Gradio   | ✅ Complete | [App](https://huggingface.co/spaces/VijendraHuggingface/rag-assistant) · [README](.vscode/week09/day63_rag_assistant/README.md) |
+| 4 | Production ML Service    | FastAPI · MLflow · Evidently AI · GitHub Actions | ✅ Complete | [README](.vscode/week10/ml_service/README.md) |
+
+---
 
 ---
 
