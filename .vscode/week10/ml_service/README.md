@@ -1,5 +1,9 @@
 # ⚙️ Production ML Service
 
+[![ML Pipeline CI](https://github.com/vijendrapokharkar15-design/DS-AI-75D/actions/workflows/ml_pipeline_ci.yml/badge.svg)](https://github.com/vijendrapokharkar15-design/DS-AI-75D/actions/workflows/ml_pipeline_ci.yml)
+
+A production-style ML service: a model trained and tracked with MLflow, served through FastAPI...
+
 A production-style ML service: a model trained and tracked with MLflow, served through FastAPI with health/metrics/monitoring endpoints, containerized with Docker, and validated by a GitHub Actions CI/CD pipeline. Built as Project 4 of my 75-day DS/AI roadmap.
 
 ---
@@ -90,4 +94,4 @@ Every push runs a GitHub Actions pipeline (`ml_pipeline_ci.yml`) that lints with
 
 ## Part of DS-AI-75D Journey
 
-This project is part of my [75-Day Data Science & AI Roadmap](https://github.com/vijendrapokharkar15-design/DS-AI-75D) — built on Day 70 (Phase 5).
+This project is part of my [75-Day Data Science & AI Roadmap](https://github.com/vijendrapokharkar15-design/DS-AI-75D) — built on Day 70 (Phase 5
